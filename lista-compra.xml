@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lista-compra>
+  <supermercado>
+    <name>Eroski</name>
+    <direction>C. Merkatondoa, 7, 31200 Estella, Navarra</direction>
+    <geolocation>42.6738933,-1.9448958</geolocation>
+    <products>
+      <name>Patatas</name>
+      <count>2</count>
+      <measurement>grams</measurement>
+      <unit-price>1.99</unit-price>
+      <offer-price>1.8</offer-price>
+      <final-price>3.6</final-price>
+      <offer>
+        <name>Día de la madre</name>
+        <dayoff>2023-05-10</dayoff>
+        <discount>10</discount>
+      </offer>
+      <is-usual>true</is-usual>
+      <is-acquired>false</is-acquired>
+    </products>
+    <products>
+      <name>Cocacola</name>
+      <count>5</count>
+      <measurement>liters</measurement>
+      <unit-price>1.58</unit-price>
+      <offer-price>1.58</offer-price>
+      <final-price>7.9</final-price>
+      <offer/>
+      <is-usual>false</is-usual>
+      <is-acquired>false</is-acquired>
+    </products>
+  </supermercado>
+  <supermercado>
+    <name>Mercadona</name>
+    <direction>C. Merkatondoa, 33, 31200 Estella, Navarra</direction>
+    <geolocation>42.6738933,-1.9448958</geolocation>
+    <products>
+      <name>Crema de manos</name>
+      <count>3</count>
+      <measurement>units</measurement>
+      <unit-price>4.99</unit-price>
+      <offer-price>4.58</offer-price>
+      <final-price>9.16</final-price>
+      <offer>
+        <name>Día de la madre</name>
+        <dayoff>2023-05-10</dayoff>
+        <discount>10</discount>
+      </offer>
+      <offer>
+        <name>3x2</name>
+        <dayoff>2023-04-30</dayoff>
+        <discount>100</discount>
+      </offer>
+      <is-usual>false</is-usual>
+      <is-acquired>true</is-acquired>
+    </products>
+    <products>
+      <name>Gel de ducha</name>
+      <count>2</count>
+      <measurement>liters</measurement>
+      <unit-price>0.75</unit-price>
+      <offer-price>0.75</offer-price>
+      <final-price>1.5</final-price>
+      <offer/>
+      <is-usual>false</is-usual>
+      <is-acquired>false</is-acquired>
+    </products>
+  </supermercado>
+</lista-compra>

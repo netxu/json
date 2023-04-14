@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Eroski",
+    "direction": "C. Merkatondoa, 7, 31200 Estella, Navarra",
+    "geolocation": "42.6738933,-1.9448958",
+    "products": [
+      {
+        "name": "Patatas",
+        "count": 2,
+        "measurement": "grams",
+        "unit-price": 1.99,
+        "offer-price": 1.80,
+        "final-price": 3.60,
+        "offer": [
+          {
+            "name": "Día de la madre",
+            "dayoff": "2023-05-10",
+            "discount": 10
+          }
+        ],
+        "is-usual": true,
+        "is-acquired": false
+      },
+      {
+        "name": "Cocacola",
+        "count": 5,
+        "measurement": "liters",
+        "unit-price": 1.58,
+        "offer-price": 1.58,
+        "final-price": 7.90,
+        "offer": [],
+        "is-usual": false,
+        "is-acquired": false
+      }
+    ]
+  },
+  {
+    "name": "Mercadona",
+    "direction": "C. Merkatondoa, 33, 31200 Estella, Navarra",
+    "geolocation": "42.6738933,-1.9448958",
+    "products": [
+      {
+        "name": "Crema de manos",
+        "count": 3,
+        "measurement": "units",
+        "unit-price": 4.99,
+        "offer-price": 4.58,
+        "final-price": 9.16,
+        "offer": [
+          {
+            "name": "Día de la madre",
+            "dayoff": "2023-05-10",
+            "discount": 10
+          },
+          {
+            "name": "3x2",
+            "dayoff": "2023-04-30",
+            "discount": 100
+          }
+        ],
+        "is-usual": false,
+        "is-acquired": true
+      },
+      {
+        "name": "Gel de ducha",
+        "count": 2,
+        "measurement": "liters",
+        "unit-price": 0.75,
+        "offer-price": 0.75,
+        "final-price": 1.50,
+        "offer": [],
+        "is-usual": false,
+        "is-acquired": false
+      }
+    ]
+  }
+]
